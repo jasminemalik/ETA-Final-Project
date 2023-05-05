@@ -1,0 +1,21 @@
+book_id,source_file_path,raw_title,regex,author,gender,book_len,n_chaps,kendall_sum,title_gender
+1,100_english_novels-master/corpus/project/Barclay_Ladies_1917.txt,Ladies, 'CHAPTER\\s[A-Za-z]',FLORENCE L. BARCLAY,female,121858,60,6.401330421829008,Ladies F
+2,100_english_novels-master/corpus/project/Barclay_Postern_1911.txt,Postern, '^THE\\s[A-Za-z]+ DAY$',FLORENCE L. BARCLAY,female,39870,8,6.776219740492329,Postern F
+3,100_english_novels-master/corpus/project/Bennet_Babylon_1902.txt,Babylon, '^Chapter\\s',ARNOLD BENNETT,male,65965,30,6.318788360895994,Babylon M
+4,100_english_novels-master/corpus/project/Bennet_Helen_1910.txt,Helen, '^Chapter\\s[0-9]+',ARNOLD BENNETT,male,52456,27,6.613274665575118,Helen M
+5,100_english_novels-master/corpus/project/Burnett_Garden_1911.txt,Garden, '^CHAPTER\\s[A-Za-z]',FRANCES HODGSON BURNETT,male,66798,19,7.546689556135709,Gardern M
+6,100_english_novels-master/corpus/project/Burnett_Princess_1905.txt,Princess, '^\\d\\s',FRANCES HODGSON BURNETT,male,66798,19,7.546689556135709,Princess M
+7,100_english_novels-master/corpus/project/Chesterton_Innocence_1911.txt,Innocence, '^\\s[A-Za-z]+ ',G. K. CHESTERTON,male,78996,25,6.516224407179687,Innocence M
+8,100_english_novels-master/corpus/project/Chesterton_Napoleon_1904.txt,Napoleon, '^CHAPTER\\s[A-Za-z]',G. K. CHESTERTON,male,54652,15,6.209197227361159,Napolean M
+9,100_english_novels-master/corpus/project/Conrad_Almayer_1895.txt,Almayer, '',JOSEPH CONRAD,male,169032,29,6.168169191391654,Alamayer M
+10,100_english_novels-master/corpus/project/Conrad_Nostromo_1904.txt,Nostromo, '^CHAPTER [A-Za-z]+',JOSEPH CONRAD,male,62976,12,6.723180692745104,Nostromo M
+11,100_english_novels-master/corpus/project/Doyle_Hound_1902.txt,Hound, '^Chapter\\s[A-Za-z]',ARTHUR CONAN DOYLE,male,57317,13,6.810572432396131,Hound M
+12,100_english_novels-master/corpus/project/Doyle_Lost_1912.txt,Lost, '^\\sCHAPTER\\s[A-Za-z]',ARTHUR CONAN DOYLE,male,76276,16,6.291952470341255,Lost M
+13,100_english_novels-master/corpus/project/Gaskell_Lovers_1863.txt,Lovers, '^CHAPTER\\s[A-Za-z]',ELIZABETH GASKELL,female,192497,45,6.0459764569446675,Lovers F
+14,100_english_novels-master/corpus/project/Gaskell_Wives_1865.txt,Wives, '^CHAPTER\\s[A-Za-z]+\\.',ELIZABETH GASKELL,female,269811,60,6.394044101431776,Wives F
+15,100_english_novels-master/corpus/project/Lee_Brown_1884.txt,Brown, '^CHAPTER\\s[A-Za-z]+\\.',VERNON LEE,female,48575,26,6.495955592906589,Brown F
+16,100_english_novels-master/corpus/project/Lee_Penelope_1903.txt,Penelope, '^[IVXLCM]+',VERNON LEE,female,20138,4,6.36666725147175,Penelope F
+17,100_english_novels-master/corpus/project/Ward_Ashe_1905.txt,Ashe, '^[IVXLCM]+',MARY AUGUSTA WARD,female,138818,21,5.743894720873238,Ashe F
+18,100_english_novels-master/corpus/project/Ward_Harvest_1920.txt,Harvest, '^[IVXLCM]+',MARY AUGUSTA WARD,female,75240,15,6.001403653712478,Harvest F
+19,100_english_novels-master/corpus/project/Woolf_Lighthouse_1927.txt,Lighthouse, '^[0-9]+',VIRGINIA WOOLF,female,68766,43,6.5790313573265,Lighthouse F
+20,100_english_novels-master/corpus/project/Woolf_Night_1919.txt,Night, '^CHAPTER\\s[IVXLCM]+',VIRGINIA WOOLF,female,159628,34,6.90511031803071,Night F

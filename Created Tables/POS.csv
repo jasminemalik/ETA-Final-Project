@@ -1,0 +1,37 @@
+pos_code,def,n,pos_group
+CC," conjunction, coordinating",74835,CC
+CD," numeral, cardinal",11002,CD
+DT, determiner,182941,DT
+EX, existential there,4466,EX
+FW, foreign word,303,FW
+IN," preposition or conjunction, subordinating",233431,IN
+JJ," adjective or numeral, ordinal",128958,JJ
+JJR," adjective, comparative",4037,JJ
+JJS," adjective, superlative",2583,JJ
+LS, list item marker,7,LS
+MD, modal auxiliary,25977,MD
+NN," noun, common, singular or mass",307661,NN
+NNP," noun, proper, singular",95284,NN
+NNPS," noun, proper, plural",326,NN
+NNS," noun, common, plural",57087,NN
+PDT, pre-determiner,3043,PD
+POS, genitive marker,1523,PO
+PRP," pronoun, personal",147958,PR
+PRP$," pronoun, possessive",57874,PR
+RB, adverb,99319,RB
+RBR," adverb, comparative",2721,RB
+RBS," adverb, superlative",946,RB
+RP, particle,10389,RP
+SYM, symbol,99,SY
+TO," ""to"" as preposition or infinitive marker",49604,TO
+UH, interjection,531,UH
+VB," verb, base form",76700,VB
+VBD," verb, past tense",135272,VB
+VBG," verb, present participle or gerund",33546,VB
+VBN," verb, past participle",47250,VB
+VBP," verb, present tense, not 3rd person singular",31440,VB
+VBZ," verb, present tense, 3rd person singular",21150,VB
+WDT, WH-determiner,10184,WD
+WP, WH-pronoun,9812,WP
+WP$," WH-pronoun, possessive",486,WP
+WRB, Wh-adverb,10348,WR
